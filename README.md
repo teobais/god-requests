@@ -10,4 +10,4 @@ Let's gather our findings regarding what changes have to be done in the way this
 
 
 ### Contribute
-Feel free to fork, add your own feature (format should be `<feature/change> - [github-username](link-to-github-profile)`) and submit a PR.
+Feel free to fork, add your own feature/change to the wishlist (format should be `<feature/change> - [github-username](link-to-github-profile)`) and submit a PR.
